@@ -1,4 +1,5 @@
-lab9/*.sln
+*.sln
+.vs/
 lab9/*.csproj
 bin/
 obj/
